@@ -1,0 +1,45 @@
+body{
+    display: block;
+    font-size:larger;
+    text-align: center;
+    color:white;
+    background-color:cadetblue;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 60px;
+    color:white
+}
+
+h2{
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+h3{
+    color:whitesmoke;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tableauPlaceholder{
+    display: block;
+    margin-left: auto;
+    margin-right: "65%";
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
